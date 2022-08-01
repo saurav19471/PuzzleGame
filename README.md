@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Web development**
 
-- Ask me about **I am final year undergraduate college student pursuing my B.TECH degree in Electrical and Electronics Engineering from BIT MESRA,PATNA CAMPUS**
+-  **I am final year undergraduate college student pursuing my B.TECH degree in Electrical and Electronics Engineering from BIT MESRA,PATNA CAMPUS**
 
-- 📫 How to reach me **Saurav19471@gmail.com**
+- 📫 **Saurav19471@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
